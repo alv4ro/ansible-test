@@ -1,0 +1,4 @@
+---
+- name: Branch name
+  debug:
+    msg: "Your are in Master branch"
